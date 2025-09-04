@@ -16,7 +16,7 @@ This is my very first project while learning Python.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/calculator.git
+   git clone https://github.com/ahmetcakir-dev/first_basic-calculator_proj.git
 
 2. Go into the project folder:
    ```bash
