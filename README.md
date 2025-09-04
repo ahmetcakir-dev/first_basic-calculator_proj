@@ -10,7 +10,7 @@ This is my very first project while learning Python.
 - Division  
 
 ## Screenshot
-![Calculator Screenshot](assets/screenshot.png)
+![Calculator Screenshot](assets/screenshot.jpg)
 
 ## How to Run
 
