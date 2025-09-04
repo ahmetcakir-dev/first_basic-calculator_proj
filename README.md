@@ -20,11 +20,11 @@ This is my very first project while learning Python.
 
 2. Go into the project folder:
    ```bash
-   cd calculator
+   cd first_basic-calculator_proj
 
 3. Run the script:
    ```bash
-   python calculator.py
+   python first_basic-calculator_proj.py
 
 ## Notes
 
