@@ -1,38 +1,38 @@
-# first_basic-calculator_proj
+# Calculator in Python
 
-Calculator in Python
+A simple calculator project written in Python.  
+This is my very first project while learning Python.  
 
-A simple calculator project written in Python.
-This is my very first project while learning Python.
+## Features
+- Addition  
+- Subtraction  
+- Multiplication  
+- Division  
 
-Features
+## Screenshot
+![Calculator Screenshot](assets/screenshot.png)
 
-Addition
+## How to Run
 
-Subtraction
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/calculator.git
 
-Multiplication
+2. Go into the project folder:
+   ```bash
+   cd calculator
 
-Division
+3. Run the script:
+   ```bash
+   python calculator.py
 
-How to Run
-
-Clone the repository:
-
-git clone https://github.com/your-username/calculator.git
-
-
-Go into the project folder:
-
-cd calculator
-
-
-Run the script:
-
-python calculator.py
-
-Notes:
+## Notes
 
 This is a beginner-level project.
 
 I built it to practice Python basics.
+
+
+## License
+
+This project is licensed under the MIT License.
