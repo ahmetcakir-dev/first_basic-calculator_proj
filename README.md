@@ -1,6 +1,5 @@
-# first_basic-calculator_proj
+# Calculator in Python
 
-Calculator in Python
 
 A simple calculator project written in Python.
 This is my very first project while learning Python.
